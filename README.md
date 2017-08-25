@@ -35,5 +35,5 @@
 <p>
   Requirements:<br>
   Your output should match the above exactly. Observe all capitalization, punctuation, and spacing.<br>
-  Use as few lines of code that call <code>System.out.println</code> as possible (and no uses of <code>System.out.print</code>). Clearly, there is more than one line of printed output. Therefore, you must use a loop and you must use conditionals (if statements) in your program. <br>
+  Use as few lines of code that call <code>System.out.println</code> as possible (and no uses of <code>System.out.print</code>). Clearly, there is more than one line of printed output. Therefore, you must use a loop and you must use conditionals (if statements) in your program. (Hint: you can use <code>+</code> to combine Strings; e.g. <code>"Hello " + "world"</code> evaluates to <code>"Hello world"</code>)<br>
   You must also have at least one <code>String</code> variable.</p>
