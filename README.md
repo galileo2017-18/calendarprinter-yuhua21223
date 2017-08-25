@@ -2,8 +2,7 @@
 
 <p>This program will be called <code>CalendarPrinter</code> for reasons that will shortly become obvious.  Clone your git repository. Edit the <code>main</code> in the Java file to create a program that will produce the below output.</p>
 <p>When compiled and executed, your program should output:</p>
-<code>
-<p>September 1  
+<p>September 1<br>
   September 2 – WEEKEND<br>
   September 3 - WEEKEND<br>
   September 4 – NO SCHOOL (LABOR DAY)<br>
@@ -33,7 +32,6 @@
   September 28<br>
   September 29 - END OF THE MARKING PERIOD<br>
   September 30 – WEEKEND</p>
-</code>
 <p>
   Requirements:<br>
   Your output should match the above exactly. Observe all capitalization, punctuation, and spacing.<br>
